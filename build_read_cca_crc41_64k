@@ -1,0 +1,1 @@
+ arm-linux-gnueabihf-gcc read_CCA_CRC41.c -o read_CCA_CRC41
